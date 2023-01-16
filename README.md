@@ -14,3 +14,5 @@
 ![1673885970894](https://user-images.githubusercontent.com/115729860/212725958-ff568a5a-2de1-49e8-b8b4-0b8c05be988a.jpg)
 ![1673886047604](https://user-images.githubusercontent.com/115729860/212725962-acf7b7be-173d-4457-a393-7de2af7b37e1.jpg)
 
+- ไฟล์ที่พร้อมรันสำหรับ 1000 comment : 1000CommendfromYoutube.xlsx 
+- เป็นชุดข้อมูลจาก wisesight ที่โหลดมาเพื่อทำ sentiment analysis ค่ะ
