@@ -1,7 +1,5 @@
 # Project_Analytic_Dashboard
 - To create a dash app which shows the analysis of live chat messages (e.g., Youtube, Facebook, Twitch, TikTok, etc.)
- - ไฟล์ที่พร้อมรันสำหรับ 1000 comment : 1000CommendfromYoutube.xlsx 
- - เป็นชุดข้อมูลจาก wisesight ที่โหลดมาเพื่อทำ sentiment analysis 
 
 # Authur
 - คณิศร หงษ์ทอง 6420422024
@@ -17,3 +15,6 @@
 ![1673886047604](https://user-images.githubusercontent.com/115729860/212725962-acf7b7be-173d-4457-a393-7de2af7b37e1.jpg)
 
 
+#Note 
+- ไฟล์ที่พร้อมรันสำหรับ 1000 comment : 1000CommendfromYoutube.xlsx 
+- เป็นชุดข้อมูลจาก wisesight ที่โหลดมาเพื่อทำ sentiment analysis 
