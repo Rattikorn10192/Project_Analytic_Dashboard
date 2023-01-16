@@ -1,7 +1,5 @@
 # Project_Analytic_Dashboard
-- Design and create your own json data
-- Create a simple GUI app for managing your data. The created app must have CRUD functions
-- You can use tcl/tk
+- To create a dash app which shows the analysis of live chat messages (e.g., Youtube, Facebook, Twitch, TikTok, etc.)
 
 # Authur
 - คณิศร หงษ์ทอง 6420422024
